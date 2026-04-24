@@ -1,5 +1,4 @@
 __pycache__/
-_Graphs/
-_Models/
+models/
 .ipynb_checkpoints/
 data/
